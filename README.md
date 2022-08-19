@@ -1,3 +1,3 @@
 # Car number plate automatic detection and censor using blur
 
-![number_plate](https://user-images.githubusercontent.com/72137556/185633061-008791cc-cd3a-49d3-9acd-1eeb5688480e.png)
+![number_plate](https://user-images.githubusercontent.com/72137556/185652373-13285548-0cda-4c22-ad21-de42faa89bed.png)
